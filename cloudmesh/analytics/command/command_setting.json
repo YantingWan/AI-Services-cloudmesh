@@ -1,0 +1,14 @@
+{
+    "cwd.cloud": "",
+    "cloud": {
+        "azure": {
+            "ip": ""
+        },
+        "chameleon": {
+            "ip": ""
+        },
+        "localhost": {
+            "ip": "localhost:5000/cloudmesh-analytics"
+        }
+    }
+}
